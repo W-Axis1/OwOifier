@@ -53,7 +53,7 @@ namespace owoify
 ```
 
 # Compilation
-Now just run and compile the project, and in a shell, run the project with passing a string as a parameter, for example, on Windows, run `./owoify.exe "this is my super cool text!"`.
+Now just run and compile the project, and in a shell, run the compiled executable and pass a string as a parameter, for example, on Windows, run `./owoify.exe "this is my super cool text!"`.
 
 
 Enjoy OwO
